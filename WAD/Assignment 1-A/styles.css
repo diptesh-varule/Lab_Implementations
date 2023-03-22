@@ -1,0 +1,42 @@
+.heading{
+    margin-top: 80px;
+}
+.img{
+    height: 220px;
+}
+.btn:hover{
+    background-color: green;
+}
+.card{
+    margin-top: 200px;
+    display: inline-block;
+    margin-left: 90px;
+}
+/* #moving-heading{
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+    padding:10px 0px 10px 0px;
+    border-radius: 30px;
+} */
+.zoom:hover {
+    transform: scale(1.3); 
+    border-radius: 50px;
+}
+
+.zoom{
+    transition: transform .2s; 
+}
+/* .paneer{
+    height:180px
+} */
+.below-heading{
+    margin-bottom: 0px;
+}
+.navbar{
+    padding:20px
+}
+.nav-item{
+    padding-left:20px;
+    padding-right:20px
+}
